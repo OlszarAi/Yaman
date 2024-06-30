@@ -1,0 +1,16 @@
+.title1{
+    align-content: center;
+    text-align: center;
+    font-family: Roboto;
+}
+
+.video{
+    text-align: center;
+}
+
+body{
+    background-color: darkgrey;
+}
+p{
+    text-align: center;
+}
